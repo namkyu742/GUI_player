@@ -6,11 +6,11 @@ GUI 프로그래밍 강의 과제
 https://user-images.githubusercontent.com/81559614/125363380-78c4ac80-e3ab-11eb-8764-eb4f567061d9.mp4
 
  
-## 제작자  
-    20161040 장우영  
-    20161138 조남규  
-    20160704 안재혁  
-    20180904 이재형  
+## 프로젝트 참여  
+    장우영  
+    조남규  
+    안재혁  
+    이재형  
 
 ## 실행 파일  
 [GUI_player.zip](https://github.com/namkyu742/GUI_player/files/10155343/GUI_player.zip)  
